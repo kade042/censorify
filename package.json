@@ -1,0 +1,19 @@
+{
+  "name": "censorify",
+  "version": "1.0.0",
+  "description": "Censore words out of text.",
+  "main": "censoretext",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/kade042/censorify"
+  }
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "author": "dereje",
+  "license": "ISC"
+}
